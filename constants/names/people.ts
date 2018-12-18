@@ -1,0 +1,1 @@
+export const people = ['michael', 'ivan', '지민', '이남호', 'larson', 'hugh'];
